@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\bin\Debug\net6.0\Converter.exe
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\bin\Debug\net6.0\Converter.deps.json
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\bin\Debug\net6.0\Converter.dll
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\bin\Debug\net6.0\Converter.pdb
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.dll
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\refint\Converter.dll
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.pdb
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Repositorio git\Converter\Converter\obj\Debug\net6.0\ref\Converter.dll
